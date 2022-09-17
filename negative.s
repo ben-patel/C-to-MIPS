@@ -1,3 +1,5 @@
+# checks if an integer is positive, zero or negative
+
 main:
     # load input into reg t0
     li   $v0, 5
