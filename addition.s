@@ -1,3 +1,5 @@
+# adds two numbers
+
 main:
 
     # print prompt
