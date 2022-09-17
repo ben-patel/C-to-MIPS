@@ -1,3 +1,5 @@
+# prints out cool bird
+
 main:
 
     # print bird
